@@ -1,6 +1,6 @@
 # Pizza-sales-forcasting
 Pizza sales analysis
-Analysis is done in python using sqlite  to solve below questions:
+ is done in python using sqlite  to solve below questions:
 •	What is the total pizza sales quantity for each month over the past year, and can you identify any seasonal trends or patterns in the data?
 •	What is the average daily pizza sales quantity for each day of the week (e.g., Monday, Tuesday, etc.), and how does it vary over time?
 •	What is the month-to-month growth rate in pizza sales quantity, and can you identify any periods of significant growth or decline?
